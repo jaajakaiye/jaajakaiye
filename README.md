@@ -1,9 +1,5 @@
 ## Greetings 🌹
-<div align="center">
-  <blockquote>
-    <p>"Strive not to be a success, but rather to be of value." - Albert Einstein</p>
-  </blockquote>
-</div>
+"Strive not to be a success, but rather to be of value." - Albert Einstein
                                                
 <div align="center">
   <img src="https://media.giphy.com/media/eB5wdH3DfPMdBx1bNY/giphy.gif?cid=ecf05e47f38we3u20tyorqxd7wif516htvtlvie2bcvzfus5&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Centered GIF">
@@ -48,5 +44,4 @@ I'm Jumoke (Joo-Ma-Keh) Ajakaiye, a healthcare analyst enthusiast exploring the 
 ## 🔬 Projects in Focus
 - Healthcare Medical Records PDF Reader
 
-![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=jaajakaiye&theme=github)
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=jaajakaiye&theme=onedark)
