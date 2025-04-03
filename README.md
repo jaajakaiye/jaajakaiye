@@ -3,6 +3,8 @@
 <!--
 **jaajakaiye/jaajakaiye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=jaajakaiye.jaajakaiye)
+
 I'm Jumoke (Joo-Ma-Keh) Ajakaiye, a healthcare analyst enthusiast exploring the data science industry!
 
 
@@ -27,5 +29,5 @@ I'm Jumoke (Joo-Ma-Keh) Ajakaiye, a healthcare analyst enthusiast exploring the 
 ## 🔬 Projects in Focus
 - Healthcare Medical Records PDF Reader
 
-![GitHub Contributions](https://activity-graph.herokuapp.com/graph?jaajakaiye=your-jaajakaiye&theme=github)
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=your-jaajakaiye.your-readme.md)
+![GitHub Contributions](https://activity-graph.herokuapp.com/graph?jaajakaiye.jaajakaiye&theme=github)
+
