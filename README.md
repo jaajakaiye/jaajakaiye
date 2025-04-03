@@ -1,7 +1,7 @@
 ## Greetings 🌹
                                                   "Strive not to be a success, but rather to be of value." - Albert Einstein
 <div align="center">
-  <img src="![Welcome GIF](https://media.giphy.com/media/eB5wdH3DfPMdBx1bNY/giphy.gif?cid=ecf05e47f38we3u20tyorqxd7wif516htvtlvie2bcvzfus5&ep=v1_gifs_search&rid=giphy.gif&ct=g)" alt="Centered GIF">
+  <img src="(https://media.giphy.com/media/eB5wdH3DfPMdBx1bNY/giphy.gif?cid=ecf05e47f38we3u20tyorqxd7wif516htvtlvie2bcvzfus5&ep=v1_gifs_search&rid=giphy.gif&ct=g)" alt="Centered GIF">
 </div>
 
 ![Welcome GIF](https://media.giphy.com/media/eB5wdH3DfPMdBx1bNY/giphy.gif?cid=ecf05e47f38we3u20tyorqxd7wif516htvtlvie2bcvzfus5&ep=v1_gifs_search&rid=giphy.gif&ct=g)
