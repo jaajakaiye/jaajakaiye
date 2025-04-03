@@ -49,3 +49,4 @@ I'm Jumoke (Joo-Ma-Keh) Ajakaiye, a healthcare analyst enthusiast exploring the 
 - Healthcare Medical Records PDF Reader
 
 ![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=jaajakaiye&theme=github)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=jaajakaiye&theme=onedark)
