@@ -44,9 +44,11 @@ I'm Jumoke (Joo-Ma-Keh) Ajakaiye, a healthcare analyst enthusiast exploring the 
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRuZjh2ZjhkNnN4c2FibXNnbTZvNHFobHA1ODcybG5pc2tsbGQ0ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SvckSy7fFviqrq8ClF/giphy.gif"alt="Centered GIF"> 
+</div>
 
 ## 🔬 Projects in Focus
 - Healthcare Medical Records PDF Reader
+
 
 ## 🏆 Github Trophy
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=jaajakaiye&theme=onedark)
