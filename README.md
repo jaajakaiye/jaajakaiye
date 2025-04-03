@@ -1,9 +1,9 @@
 ## Hi there 👍🏿
-![Welcome GIF](https://media.giphy.com/media/3o6ZsU4GEdXtZP9Vz6/giphy.gif)
+![Welcome GIF](https://media.giphy.com/media/eB5wdH3DfPMdBx1bNY/giphy.gif?cid=ecf05e47f38we3u20tyorqxd7wif516htvtlvie2bcvzfus5&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 <!--
 **jaajakaiye/jaajakaiye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-I'm Jumoke (Joo-Ma-Keh) Ajakaiye, a healthcare analyst enthusiast exploring data science for real-world problems!
+I'm Jumoke (Joo-Ma-Keh) Ajakaiye, a healthcare analyst enthusiast exploring the data science industry!
 
 
 - 🔭 I’m currently working on Python Certificate
@@ -22,14 +22,11 @@ I'm Jumoke (Joo-Ma-Keh) Ajakaiye, a healthcare analyst enthusiast exploring data
 - Data Analysis
 - HTML
 
-![Cool GIF](https://media.giphy.com/media/3o6ZsU4GEdXtZP9Vz6/giphy.gif)
+![Cool GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRuZjh2ZjhkNnN4c2FibXNnbTZvNHFobHA1ODcybG5pc2tsbGQ0ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SvckSy7fFviqrq8ClF/giphy.gif))
 
 ## 🔬 Projects in Focus
-- **[Healthcare Medical Records PDF Reader ]
-
-![Chart](https://quickchart.io/chart?c={type:'bar',data:{labels:['Mon','Tue'],datasets:[{label:'Patients',data:[20,15]}]}})
-
+- Healthcare Medical Records PDF Reader
 
 ## 📊 Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?jaajakaiye=jaajakaiye&show_icons=true&theme=radical)
 
