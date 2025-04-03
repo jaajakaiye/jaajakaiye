@@ -6,25 +6,16 @@
 </div>
 
 <!--
-def main():
-    # Indented block
-    print("Indented line")
--->
-
-<!--
 **jaajakaiye/jaajakaiye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+___________________________________________________________________________________________________________________________________________________________________________
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jaajakaiye.jaajakaiye"alt="Centered Visit Count">
 </div>
 
-<!--
-def main():
-    # Indented block
-    print("Indented line")
--->
+____________________________________________________________________________________________________________________________________________________________________________
                                                 
 I'm Jumoke (Joo-Ma-Keh) Ajakaiye, a healthcare analyst enthusiast exploring the data science industry!
 
