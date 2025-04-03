@@ -1,5 +1,4 @@
 ## Greetings 🌹
-
 <div align="center">
   <blockquote>
     <p>"Strive not to be a success, but rather to be of value." - Albert Einstein</p>
