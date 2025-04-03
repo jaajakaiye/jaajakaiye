@@ -14,10 +14,10 @@ I'm Jumoke (Joo-Ma-Keh) Ajakaiye, a healthcare analyst enthusiast exploring data
 -->
 
 ## 🛠️ Skills
--![Data Science](https://img.shields.io/badge/Data%20Science-Innovative-blue?style=for-the-badge)
+![Data Science](https://img.shields.io/badge/Data%20Science-Innovative-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Healthcare IT](https://img.shields.io/badge/Healthcare_IT-Innovation-brightgreen?style=for-the-badge)
 - SQL
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
--![Healthcare IT](https://img.shields.io/badge/Healthcare_IT-Innovation-brightgreen?style=for-the-badge)
 - AI 
 - Data Analysis
 - HTML
