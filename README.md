@@ -4,6 +4,7 @@
   <img src="https://media.giphy.com/media/eB5wdH3DfPMdBx1bNY/giphy.gif?cid=ecf05e47f38we3u20tyorqxd7wif516htvtlvie2bcvzfus5&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Centered GIF">
 </div>
 
+<--
 **jaajakaiye/jaajakaiye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
@@ -11,7 +12,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jaajakaiye.jaajakaiye"alt="Centered Visit Count">
 </div>
 
-                                                ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=jaajakaiye.jaajakaiye)
+                                                
 I'm Jumoke (Joo-Ma-Keh) Ajakaiye, a healthcare analyst enthusiast exploring the data science industry!
 
 - 🔭 I’m currently working on Python Certificate
@@ -19,7 +20,7 @@ I'm Jumoke (Joo-Ma-Keh) Ajakaiye, a healthcare analyst enthusiast exploring the 
 - 🤔 I’m looking for help with Python code that reads healthcare pdf files
 - 📫 How to reach me: Twitter jaajakaiye
 - ⚡ Fun fact: I'm into kdrama series and do diy nails as a hobby!
-- 
+  
 ## 🛠️ Skills
 ![Data Science](https://img.shields.io/badge/Data%20Science-Innovative-blue?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
