@@ -31,11 +31,11 @@ I'm Jumoke (Joo-Ma-Keh) Ajakaiye, a healthcare analyst enthusiast exploring the 
 - Data Analysis
 - HTML
 
-## Data Analysis tools
+## 🧮 Data Analysis tools
 - Power BI
 - Tableau 
 
-## Software (EMR)
+## 🖥️ Software (EMR)
 - Epic
 - Meditech
 
@@ -44,4 +44,5 @@ I'm Jumoke (Joo-Ma-Keh) Ajakaiye, a healthcare analyst enthusiast exploring the 
 ## 🔬 Projects in Focus
 - Healthcare Medical Records PDF Reader
 
+## 🏆 Github Trophy
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=jaajakaiye&theme=onedark)
