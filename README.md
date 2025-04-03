@@ -1,4 +1,4 @@
-## Greetings 
+## Greetings 🌹
 ![Welcome GIF](https://media.giphy.com/media/eB5wdH3DfPMdBx1bNY/giphy.gif?cid=ecf05e47f38we3u20tyorqxd7wif516htvtlvie2bcvzfus5&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 <!--
 **jaajakaiye/jaajakaiye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
