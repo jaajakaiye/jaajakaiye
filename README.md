@@ -27,6 +27,4 @@ I'm Jumoke (Joo-Ma-Keh) Ajakaiye, a healthcare analyst enthusiast exploring the 
 ## 🔬 Projects in Focus
 - Healthcare Medical Records PDF Reader
 
-## 📊 Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?jaajakaiye=your-jaajakaiye&show_icons=true&theme=radical&token=2911)
-
+![GitHub Contributions](https://activity-graph.herokuapp.com/graph?jaajakaiye=your-jaajakaiye&theme=github)
