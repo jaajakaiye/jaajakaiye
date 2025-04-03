@@ -5,9 +5,11 @@
   <img src="https://media.giphy.com/media/eB5wdH3DfPMdBx1bNY/giphy.gif?cid=ecf05e47f38we3u20tyorqxd7wif516htvtlvie2bcvzfus5&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Centered GIF">
 </div>
 
+<!--
 def main():
     # Indented block
     print("Indented line")
+-->
 
 <!--
 **jaajakaiye/jaajakaiye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,10 +20,11 @@ def main():
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jaajakaiye.jaajakaiye"alt="Centered Visit Count">
 </div>
 
+<!--
 def main():
     # Indented block
     print("Indented line")
-
+-->
                                                 
 I'm Jumoke (Joo-Ma-Keh) Ajakaiye, a healthcare analyst enthusiast exploring the data science industry!
 
